@@ -15,7 +15,9 @@ opencv and easyocr.
    detect required info into mask image and save that param values (hue, saturation and value)
 4. use found param values in main.py file
 
-# References
+# Output
+
+![img.png](img.png)
 
 1. https://github.com/computervisiondeveloper/color-detection-opencv
 2. https://github.com/computervisiondeveloper/text-detection-python-easyocr
