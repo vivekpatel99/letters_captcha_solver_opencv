@@ -19,5 +19,7 @@ opencv and easyocr.
 
 ![img.png](img.png)
 
+# References
+
 1. https://github.com/computervisiondeveloper/color-detection-opencv
 2. https://github.com/computervisiondeveloper/text-detection-python-easyocr
